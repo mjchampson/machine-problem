@@ -45,6 +45,7 @@ img {
   <li><a class="active" href="index2.php">Fav. Color</a></li>
   <li><a href="sports.php">Fav. Sports</a></li>
   <li><a href="aircraft.php">Fav. Aircraft</a></li>
+  <li><a href="aircraft.php">Fav. Car</a></li>
 
  </ul>
 
