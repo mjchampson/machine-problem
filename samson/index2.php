@@ -46,6 +46,10 @@ img {
   <li><a href="sports.php">Fav. Sports</a></li>
   <li><a href="aircraft.php">Fav. Aircraft</a></li>
   <li><a href="car.php">Fav. Car</a></li>
+  <li><a href="shoes.php">Fav. Shoes</a></li> 
+  <li><a href="food.php">Fav. Food</a></li>
+  <li><a href="watch.php">Fav. Watch</a></li>
+  <li><a href="cap.php">Fav. Cap</a></li> 
 
  </ul>
 
