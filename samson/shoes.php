@@ -41,11 +41,11 @@ img {
 <body>
 
 <ul>
-  <li><a href="index2.php">Fav. Color</a></li>
-  <li><a class="active" href="sports.php">Fav. Sports </a></li>
-  <li><a href="aircraft.php">Fav. Aircraft</a></li>
-  <li><a href="car.php">Fav. Car</a></li>
-  <li><a href="shoes.php">Fav. Shoes</a></li> 
+  <li><a  href="index2.php">Fav. Color</a></li>
+  <li><a href="sports.php">Fav. Sports </a></li>
+  <li><a  href="aircraft.php">Fav. Aircraft</a></li>
+  <li><a  href="car.php">Fav. Car</a></li>
+  <li><a class="active" href="shoes.php">Fav. Shoes</a></li> 
   <li><a href="food.php">Fav. Food</a></li>
   <li><a href="watch.php">Fav. Watch</a></li>
   <li><a href="cap.php">Fav. Cap</a></li> 
@@ -53,9 +53,9 @@ img {
 
 <div style="margin-left:25%;padding:1px 16px;height:1000px;">
   <h2 align="center">MARK JOSEPH SAMSON</h2>
-  <h3 align="center">FAVORITE SPORTS</h3>
-  <h1 style="color:red" align="center"> BASKETBALL </h1>
-  <img src="bball.jpg" width="400" height="300" align="center">
+  <h3 align="center">FAVORITE SHOES</h3>
+  <h1 style="color:black" align="center"> NIKE </h1>
+   <img src="nike1.jpg"  width="400" height="300" align="center">
   
 </div>
 

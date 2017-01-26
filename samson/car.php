@@ -43,15 +43,19 @@ img {
 <ul>
   <li><a  href="index2.php">Fav. Color</a></li>
   <li><a href="sports.php">Fav. Sports </a></li>
-  <li><a href="aircraft.php">Fav. Aircraft</a></li>
-  <li><a class="active" href="aircraft.php">Fav. Car</a></li>
+  <li><a  href="aircraft.php">Fav. Aircraft</a></li>
+  <li><a class="active" href="car.php">Fav. Car</a></li>
+  <li><a href="shoes.php">Fav. Shoes</a></li> 
+  <li><a href="food.php">Fav. Food</a></li>
+  <li><a href="watch.php">Fav. Watch</a></li>
+  <li><a href="cap.php">Fav. Cap</a></li> 
 </ul>
 
 <div style="margin-left:25%;padding:1px 16px;height:1000px;">
   <h2 align="center">MARK JOSEPH SAMSON</h2>
   <h3 align="center">FAVORITE CAR</h3>
-  <h1 style="color:BLUE" align="center"> Bugati Veyron  </h1>
-   <img src=".jpg" alt="Paris" width="400" height="300" align="center">
+  <h1 style="color: #8B0000" align="center"> BUGATTI VEYRON </h1>
+   <img src="bugatti.jpg"  width="400" height="300" align="center">
   
 </div>
 

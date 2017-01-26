@@ -50,14 +50,13 @@ img {
   <li><a href="food.php">Fav. Food</a></li>
   <li><a href="watch.php">Fav. Watch</a></li>
   <li><a href="cap.php">Fav. Cap</a></li> 
-
  </ul>
 
 <div style="margin-left:25%;padding:1px 16px;height:1000px;">
   <h2 align="center">MARK JOSEPH SAMSON</h2>
   <h3 align="center">FAVORITE COLOR</h3>
   <h1 style="color:yellow" align="center"> YELLOW </h1>
-  <img src="yellow1.jpg" alt="Paris" width="400" height="300" align="center">
+  <img src="yellow1.jpg"  width="400" height="300" align="center">
   
 </div>
 
